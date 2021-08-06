@@ -1,2 +1,2 @@
-# CricketCrazy
-CricketCrazy CRIC Token Mainnet
+# CricketAPI
+CRIC Token Mainnet Node APIs
