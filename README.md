@@ -1,2 +1,2 @@
-# CricketAPI
-CRIC Token Mainnet Node APIs
+# CricketCrazy
+CricketCrazy Application Repo
