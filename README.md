@@ -1,2 +1,2 @@
-# CricketCrazy
-CricketCrazy Application Repo
+# CricketAPI
+CRIC Blockchain Repo
